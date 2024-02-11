@@ -1,0 +1,3 @@
+dependencies {
+    shadowCompile("com.squareup:javapoet:1.13.0")
+}
